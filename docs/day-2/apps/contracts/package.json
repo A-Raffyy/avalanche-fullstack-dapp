@@ -1,0 +1,31 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "A-Raffyy",
+  "license": "ISC",
+  "description": "smart contract day 2 short couse",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Raffyy/avalanche-fullstack-dapp.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/A-Raffyy/avalanche-fullstack-dapp/issues"
+  },
+  "homepage": "https://github.com/A-Raffyy/avalanche-fullstack-dapp/tree/main#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/node": "^25.0.8",
+    "hardhat": "^2.28.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "dotenv": "^17.2.3"
+  }
+}
