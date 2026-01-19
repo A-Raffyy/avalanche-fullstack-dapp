@@ -1,9 +1,0 @@
-{
-  "build": {
-    "builder": "NIXPACKS",
-    "buildCommand": "cd docs/day-4/apps/backend && npm install && npm run build"
-  },
-  "deploy": {
-    "startCommand": "cd docs/day-4/apps/backend && npm run start:prod"
-  }
-}
