@@ -157,7 +157,7 @@ export default function Page() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-black text-white">
       <div className="w-full max-w-md border border-gray-700 rounded-lg p-6 space-y-6">
-        <h1 className="text-xl font-bold">Day 3 – Frontend dApp (Avalanche)</h1>
+        <h1 className="text-xl font-bold">Day 5 – Frontend dApp (Avalanche)</h1>
 
         {/* Toast */}
         {toastMessage && (
